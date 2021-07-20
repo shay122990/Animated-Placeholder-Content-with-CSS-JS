@@ -53,3 +53,4 @@ SOFTWARE.
 ## Contact
 
 Shay Asanova - shay.asanova@gmail.com
+## Credits to @bradtraversy
